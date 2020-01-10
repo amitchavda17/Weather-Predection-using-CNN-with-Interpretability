@@ -1,5 +1,5 @@
 # Weather-Predection-using-CNN-with-Interpretability
-This notebook covers training COnvolutin Neural network  from scratch to classify Weather images using Mutli-class Weather Dataset.
+This notebook covers training Convolutin Neural network  from scratch to classify Weather images using Mutli-class Weather Dataset.
 **Dataset :** 
 Multiclass weather dataset  
 Dataset The dataset contains following four classes  
