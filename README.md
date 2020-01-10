@@ -4,9 +4,13 @@ This notebook covers training COnvolutin Neural network  from scratch to classif
 Multiclass weather dataset  
 Dataset The dataset contains following four classes  
 1)Cloudy 
+
 2)Rainy 
-3)Sunrise 
+
+3)Sunrise
+
 4)Sunshine(Sunny) 
+
 We will be designing our own CNN architecture using Keras for Image Classification
 
 **Interpretability**
